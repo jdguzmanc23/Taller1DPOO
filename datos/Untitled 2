@@ -1,0 +1,34 @@
+tipo:super:24070:365.00
+tipo:premium:25726:250.00
+tipo:regular:15994:500.00
+tipo:ultra:25000:519.00
+surtidor:Edna Ruth:super:0.0:premium:0.0:regular:0.0:ultra:0.0
+surtidor:Juan Sebastian Mosquera:super:0.0:premium:0.0:regular:0.0:ultra:0.0
+surtidor:Yeiner Ibargüen:super:0.0:premium:0.0:regular:0.0:ultra:0.0
+surtidor:Gabriel Enrique:super:0.0:premium:0.0:regular:0.0:ultra:0.0
+surtidor:Vitoria Vuitton:super:0.0:premium:0.0:regular:0.0:ultra:0.0
+empleado:Edna Ruth:0
+empleado:Juan Sebastian Mosquera:0
+empleado:Yeiner Ibargüen:0
+empleado:Gabriel Enrique:0
+empleado:Vitoria Vuitton:0
+
+
+
+FORMATO 2.0
+
+******************
+ESTADO ACTUAL
+La gasolinera tiene actualmente 4 surtidores
+Los tipos de gasolina disponible son:
+   - super: 24070 por galón, 365,00 galones disponibles
+   - premium: 25726 por galón, 250,00 galones disponibles
+   - regular: 15994 por galón, 500,00 galones disponibles
+   - ultra: 25000 por galón, 519,00 galones disponibles
+Los empleados son: 
+   - Edna Ruth tiene 0 pesos
+   - Juan Sebastian Mosquera tiene 0 pesos
+   - Yeiner Ibargüen tiene 0 pesos
+   - Gabriel Enrique tiene 0 pesos
+   - Vitoria Vuitton tiene 0 pesos
+******************
